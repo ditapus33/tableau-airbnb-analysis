@@ -1,14 +1,13 @@
 # 🏠 Tableau Project: Airbnb Listings 2016 Analysis
 
-This repository contains a data visualization project built using **Tableau Public**.  
-The analysis explores Airbnb listings from the year 2016 to understand how factors such as bedroom count, location, and time affect prices and revenue.
+This repository contains a data visualization project built using **Tableau Public**. The analysis explores Airbnb listings from the year 2016 to understand how factors such as bedroom count, location, and time affect prices and revenue.
 
 ---
 
 ## 📂 Repository Contents
 - **Tableau Full Project.twbx** → Tableau workbook containing dashboards and visualizations.  
 - **Tableau Full Project.xlsx** → Dataset used for analysis (Airbnb Listings 2016).  
-- **Airbnb Tableau Dashboard** → Folder containing dashboard preview images.  
+- **Airbnb Tableau Dashboard.png** → Folder containing dashboard preview images.  
 
 ---
 
