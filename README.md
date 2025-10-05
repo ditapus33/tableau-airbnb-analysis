@@ -7,7 +7,7 @@ This repository contains a data visualization project built using **Tableau Publ
 ## 📂 Repository Contents
 - **Tableau Full Project.twbx** → Tableau workbook containing dashboards and visualizations.  
 - **Tableau Full Project.xlsx** → Dataset used for analysis (Airbnb Listings 2016).  
-- **Airbnb Tableau Dashboard.png** → Folder containing dashboard preview images.  
+- **airbnb-tableau-dashboard.png** → Folder containing dashboard preview images.  
 
 ---
 
@@ -57,5 +57,5 @@ Using Tableau’s interactive features, users can explore these insights dynamic
 
 ## 📷 Dashboard Preview
 
-![Airbnb Tableau Dashboard](Airbnb%Tableau%Dashboard.png)
+![Airbnb Tableau Dashboard](airbnb-tableau-dashboard.png)
 
