@@ -8,8 +8,7 @@ The analysis explores Airbnb listings from the year 2016 to understand how facto
 ## 📂 Repository Contents
 - **Tableau Full Project.twbx** → Tableau workbook containing dashboards and visualizations.  
 - **Tableau Full Project.xlsx** → Dataset used for analysis (Airbnb Listings 2016).  
-- **screenshot/** → Folder containing dashboard preview images.  
-- **docs/** → Optional folder for report or additional documentation.
+- **Airbnb Tableau Dashboard** → Folder containing dashboard preview images.  
 
 ---
 
@@ -59,5 +58,5 @@ Using Tableau’s interactive features, users can explore these insights dynamic
 
 ## 📷 Dashboard Preview
 
-![Airbnb Tableau Dashboard](./screenshot/airbnb-dashboard.png)
+![Airbnb Tableau Dashboard](Airbnb%Tableau%Dashboard.png)
 
