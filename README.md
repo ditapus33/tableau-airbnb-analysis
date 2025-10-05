@@ -6,9 +6,9 @@ This repository contains a data visualization project built using **Tableau Publ
 
 ## 📂 Repository Contents
 - **Tableau Full Project.twbx** → Tableau workbook containing dashboards and visualizations.  
-- **Tableau Full Project.xlsx** → Dataset used for analysis (Airbnb Listings 2016).  
+- **Tableau Full Project.xlsx** → Dataset used for analysis (Airbnb Listings 2016) *(Not uploaded due to large file size)*/ https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset.  
 - **airbnb-tableau-dashboard.png** → Folder containing dashboard preview images.  
-
+- **README.md** → Documentation describing the project, insights, and usage instructions.
 ---
 
 ## 📑 Dataset Description
